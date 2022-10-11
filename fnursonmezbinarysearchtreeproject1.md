@@ -1,7 +1,8 @@
 # fnursonmezbinarysearchtreeproject1
+[Patika.dev](https://www.patika.dev/tr)
 
 
-* 1-) Binary Search Tree [7,5,1,8,3,6,0,9,4,2] *
+# 1-) Binary Search Tree [7,5,1,8,3,6,0,9,4,2] 
 - Root => 7 
 - 5<7 olduğu için root'un soluna yerleşir.
 - 1<7 ve aynı zamanda 1<5 olduğu için 5'in de soluna yerleşir.
